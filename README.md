@@ -1,6 +1,6 @@
 # College_Graduation_Rate
 College Graduation Rates and Economic Inequality.
-Group project, EDA, 
+Group project, EDA, Linear Regression, Random Forest Regressor
 
 ---
 
@@ -50,7 +50,7 @@ The data contains a lot of missing values.
 
 ## Models
 * Linear Regression (Submission_ccc.ipynb)
-* Random Forest (Submission_yhpf2.ipynb)
+* Random Forest Regressor (Submission_yhpf2.ipynb)
 
 ---
 
